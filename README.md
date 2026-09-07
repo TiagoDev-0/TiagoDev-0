@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./assets/github.gif" alt="Animação do GitHub" height="180px">
+<img src="./assets/github.gif" alt="GitHub Animation" height="180px">
 
 # 👨‍💻 Tiago Silva
 
-### Estudante de Análise e Desenvolvimento de Sistemas
+### Systems Analysis and Development Student
 
-💻 **Backend • Desenvolvimento de Software • Segurança de Aplicações**
+💻 **Backend • Software Development • Application Security**
 
-☕ **Java • Spring Boot • APIs REST**
+☕ **Java • Spring Boot • REST APIs**
 
 </div>
 
@@ -16,11 +16,11 @@
 
 <div align="center">
 
-## 👋 Bem-vindo!
+## 👋 Welcome!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, focado em **Desenvolvimento Backend com Java e Spring Boot**.
+🎓 Systems Analysis and Development student focused on **Backend Development with Java and Spring Boot**.
 
-🚀 Atualmente desenvolvendo meus conhecimentos em **APIs REST, Bancos de Dados, Arquitetura de Software e AppSec**.
+🚀 Currently improving my skills in **REST APIs, Databases, Software Architecture, and Application Security**.
 
 </div>
 
@@ -42,7 +42,7 @@
 
 ---
 
-# 🛠️ Tecnologias
+# 🛠️ Technologies
 
 <div align="center">
 
@@ -52,19 +52,19 @@
 
 ---
 
-# 📚 Atualmente estudando
+# 📚 Currently Learning
 
 <div align="center">
 
-☕ **Java & POO** • 🌱 **Spring Boot** • 🔗 **APIs REST**
+☕ **Java & Object-Oriented Programming** • 🌱 **Spring Boot** • 🔗 **REST APIs**
 
-🗄️ **SQL** • 🏗️ **Arquitetura de Software** • 🔐 **AppSec**
+🗄️ **SQL** • 🏗️ **Software Architecture** • 🔐 **Application Security**
 
 </div>
 
 ---
 
-# 🐍 Contribuições
+# 🐍 Contributions
 
 <div align="center">
 
@@ -91,7 +91,7 @@ src="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-c
 
 ---
 
-# 🌐 Contato
+# 🌐 Connect with Me
 
 <div align="center">
 
@@ -118,7 +118,8 @@ src="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-c
 <div align="center">
 
 <img
-src="https://komarev.com/ghpvc/?username=TiagoSantos9&label=Visualizações&color=8B5CF6&style=for-the-badge"
+src="https://komarev.com/ghpvc/?username=TiagoSantos9&label=Profile%20Views&color=8B5CF6&style=for-the-badge"
+alt="Profile Views"
 />
 
 </div>
