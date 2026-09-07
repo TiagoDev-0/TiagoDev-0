@@ -26,19 +26,49 @@
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-stats-extended.vercel.app/api?username=TiagoSantos9&show_icons=true&include_all_commits=true&theme=transparent&card_width=400"/>
+<img
+  height="170em"
+  src="https://github-stats-extended.vercel.app/api?username=TiagoSantos9&show_icons=true&include_all_commits=true&theme=transparent&card_width=400"
+/>
 
-<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs?username=TiagoSantos9&layout=compact&langs_count=7&theme=transparent&card_width=400"/>
+<img
+  height="170em"
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=TiagoSantos9&layout=compact&langs_count=7&theme=transparent&card_width=400"
+/>
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=TiagoSantos9&theme=transparent&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=C084FC&dates=FFFFFF"
+/>
+
+</div>
+
+---
+
+# 📈 Atividade no GitHub
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoSantos9&bg_color=0D1117&color=C084FC&line=A855F7&point=E879F9&area=true&hide_border=true"
+/>
+
+</div>
+
+---
+
+# 🛠️ Tecnologias
 
 <div align="center">
 
@@ -71,7 +101,7 @@
 
 ---
 
-## 📚 Atualmente estudando
+# 📚 Atualmente estudando
 
 <div align="center">
 
@@ -87,7 +117,7 @@
 
 ---
 
-## 🎯 Objetivo Profissional
+# 🎯 Objetivo Profissional
 
 Atualmente estou construindo minha carreira com foco em **Desenvolvimento Backend**, aprofundando meus conhecimentos principalmente em:
 
@@ -99,11 +129,12 @@ A longo prazo, pretendo evoluir profissionalmente para áreas relacionadas a:
 
 ---
 
-## 🐍 Minhas contribuições
+# 🐍 Minhas Contribuições
 
 <div align="center">
 
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake-dark.svg"
@@ -125,24 +156,24 @@ A longo prazo, pretendo evoluir profissionalmente para áreas relacionadas a:
 
 ---
 
-## 🌐 Contato
+# 🌐 Contato
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/tiago-silva-701530357/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/TiagoSantos9">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:tiago.s.dos.santoss@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/tiago_silva476/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -151,6 +182,6 @@ A longo prazo, pretendo evoluir profissionalmente para áreas relacionadas a:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=TiagoSantos9&label=Visualizações%20do%20perfil&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=TiagoSantos9&label=Visualizações%20do%20perfil&color=8B5CF6&style=for-the-badge"/>
 
 </div>
