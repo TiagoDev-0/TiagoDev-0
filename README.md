@@ -2,17 +2,13 @@
 
 <img src="./assets/github.gif" alt="Animação do GitHub" height="180px">
 
-<br/>
-
 # 👨‍💻 Tiago Silva
 
-### 💻 Desenvolvedor em formação | Backend & Software Development
+### Estudante de Análise e Desenvolvimento de Sistemas
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-
+💻 **Backend & Desenvolvimento de Software**
 ☕ **Java • Spring Boot • APIs REST**
-
-🔐 **Segurança de Aplicações — AppSec**
+🔐 **Segurança de Aplicações (AppSec)**
 
 </div>
 
@@ -22,9 +18,9 @@
 
 ## 👋 Bem-vindo ao meu perfil!
 
-Atualmente estou construindo minha carreira na área de **Desenvolvimento Backend**,
-aprofundando meus conhecimentos em desenvolvimento de software, APIs, bancos de dados,
-arquitetura de sistemas e segurança de aplicações.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, com foco no desenvolvimento **Backend**.
+
+🚀 Atualmente estou aprofundando meus conhecimentos em **Java, Spring Boot, APIs REST, Bancos de Dados e Arquitetura de Software**, buscando construir soluções cada vez mais escaláveis e bem estruturadas.
 
 </div>
 
@@ -34,48 +30,42 @@ arquitetura de sistemas e segurança de aplicações.
 
 <div align="center">
 
-<!-- ==================== -->
-
 <!-- PRIMEIRA LINHA -->
 
-<!-- ==================== -->
-
-<img 
+<img
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiagoSantos9&theme=jolly"
-alt="GitHub Stats"
 height="180px"
+alt="Estatísticas do GitHub"
 />
 
-<img 
+<img
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoSantos9&theme=jolly"
-alt="Top Languages"
 height="180px"
+alt="Principais linguagens"
 />
 
-<img 
+<img
 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TiagoSantos9&theme=jolly&utcOffset=-3"
-alt="Commits"
 height="180px"
+alt="Horários mais produtivos"
 />
 
-<br/>
+</div>
 
-<!-- ==================== -->
+<div align="center">
 
 <!-- SEGUNDA LINHA -->
 
-<!-- ==================== -->
-
-<img 
+<img
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoSantos9&theme=jolly"
-alt="GitHub Contributions"
 height="170px"
+alt="Detalhes das contribuições"
 />
 
 <img
 src="https://streak-stats.demolab.com?user=TiagoSantos9&theme=jolly&hide_border=true"
-alt="GitHub Streak"
 height="170px"
+alt="Sequência de contribuições"
 />
 
 </div>
@@ -86,45 +76,7 @@ height="170px"
 
 <div align="center">
 
-### ☕ Backend
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-<br/><br/>
-
-### 🗄️ Banco de Dados
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-<br/><br/>
-
-### 🎨 Frontend / Mobile
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<br/><br/>
-
-### 🛠️ Ferramentas
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,js,html,css,bootstrap,react,git,github&perline=12"/>
 
 </div>
 
@@ -150,13 +102,11 @@ height="170px"
 
 <div align="center">
 
-Atualmente estou construindo minha carreira com foco em **Desenvolvimento Backend**.
-
-### 🚀 Principais áreas de estudo
+Atualmente estou construindo minha carreira com foco em **Desenvolvimento Backend**, aprofundando meus conhecimentos em:
 
 **Java • Spring Boot • APIs REST • Bancos de Dados • Arquitetura de Software**
 
-### 🔐 Objetivo a longo prazo
+A longo prazo, pretendo evoluir para áreas relacionadas a:
 
 **Engenharia de Software • Arquitetura de Sistemas • Segurança de Aplicações (AppSec)**
 
@@ -213,12 +163,12 @@ src="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-c
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
 <img
-src="https://komarev.com/ghpvc/?username=TiagoSantos9&label=Profile%20Views&color=8B5CF6&style=for-the-badge"
+src="https://komarev.com/ghpvc/?username=TiagoSantos9&label=Visualizações%20do%20perfil&color=8B5CF6&style=for-the-badge"
 alt="Visualizações do perfil"
 />
 
