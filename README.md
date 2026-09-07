@@ -182,6 +182,8 @@ A longo prazo, pretendo evoluir profissionalmente para áreas relacionadas a:
 
 <div align="center">
 
-![Visualização de perfil](https://komarev.com/ghpvc/?username=TiagoSantos9)
-
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoSantos9&bg_color=0D1117&color=C084FC&line=A855F7&point=E879F9&area=true&hide_border=true"
+  alt="Gráfico de atividade do GitHub"
+/>
 </div>
