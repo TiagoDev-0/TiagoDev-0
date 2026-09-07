@@ -6,17 +6,23 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
-💻 **Backend & Desenvolvimento de Software** • ☕ **Java & Spring Boot** • 🔐 **AppSec**
+💻 **Backend & Desenvolvimento de Software**
+☕ **Java • Spring Boot • APIs REST**
+🔐 **Segurança de Aplicações — AppSec**
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+<div align="center">
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, direcionando meus estudos para o desenvolvimento **Backend com Java e Spring Boot**.
+## 👋 Bem-vindo ao meu perfil!
 
-🚀 Busco evoluir continuamente em **desenvolvimento de software, APIs REST, bancos de dados, arquitetura de sistemas e segurança de aplicações**.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, com foco no desenvolvimento **Backend**.
+
+🚀 Atualmente estou aprofundando meus conhecimentos em **Java, Spring Boot, APIs REST, bancos de dados, arquitetura de software e segurança de aplicações**.
+
+</div>
 
 ---
 
@@ -24,61 +30,42 @@
 
 <div align="center">
 
-<!-- Estatísticas Gerais + Linguagens -->
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiagoSantos9&theme=jolly"
-alt="Estatísticas Gerais"
-height="195px"
-/>
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoSantos9&theme=jolly"
-alt="Linguagens Mais Usadas"
-height="195px"
-/>
-
-<br/>
-
-<!-- Horários mais produtivos -->
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TiagoSantos9&theme=jolly&utcOffset=-3"
-alt="Horários de maior atividade"
-height="195px"
-/>
-
-<br/>
-
-<!-- Detalhes do perfil -->
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoSantos9&theme=jolly"
-alt="Detalhes das contribuições"
-width="800px"
-/>
-
-<br/>
-
-<!-- Streak -->
-
-<img 
-src="https://streak-stats.demolab.com?user=TiagoSantos9&theme=jolly&hide_border=true"
-alt="Sequência de contribuições"
-height="170px"
-/>
-
-</div>
-
----
-
-# 📈 Atividade no GitHub
-
-<div align="center">
+<!-- PRIMEIRA LINHA -->
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoSantos9&bg_color=0D1117&color=C084FC&line=A855F7&point=E879F9&area=true&hide_border=true"
-alt="Gráfico de atividade do GitHub"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiagoSantos9&theme=jolly"
+alt="Estatísticas Gerais"
+height="180px"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoSantos9&theme=jolly"
+alt="Linguagens Mais Utilizadas"
+height="180px"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TiagoSantos9&theme=jolly&utcOffset=-3"
+alt="Horários de Maior Produtividade"
+height="180px"
+/>
+
+<br/>
+
+<!-- SEGUNDA LINHA -->
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoSantos9&theme=jolly"
+alt="Detalhes das Contribuições"
+width="600px"
+/>
+
+<br/>
+
+<img
+src="https://streak-stats.demolab.com?user=TiagoSantos9&theme=jolly&hide_border=true"
+alt="Sequência de Contribuições"
+height="170px"
 />
 
 </div>
@@ -92,8 +79,11 @@ alt="Gráfico de atividade do GitHub"
 ### ☕ Backend
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
 <br/><br/>
@@ -101,6 +91,7 @@ alt="Gráfico de atividade do GitHub"
 ### 🗄️ Banco de Dados
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 <br/><br/>
@@ -108,9 +99,13 @@ alt="Gráfico de atividade do GitHub"
 ### 🎨 Frontend / Mobile
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 <br/><br/>
@@ -118,6 +113,7 @@ alt="Gráfico de atividade do GitHub"
 ### 🛠️ Ferramentas
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
@@ -199,7 +195,11 @@ src="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-c
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
 <img
 src="https://komarev.com/ghpvc/?username=TiagoSantos9&label=Visualizações%20do%20perfil&color=8B5CF6&style=for-the-badge"
