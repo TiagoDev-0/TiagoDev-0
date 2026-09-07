@@ -2,7 +2,14 @@
 
 <img src="./assets/github-v2.gif" alt="GitHub Animation" width="100%">
 
-# 👨‍💻 Tiago Silva
+<div align="center">
+
+<img 
+src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=28&center=true&lines=Hi%2C+I'm+Tiago+Silva+%F0%9F%91%8B;Backend+Developer+in+Training;Java+%7C+Spring+Boot+%7C+REST+APIs;Welcome+to+my+GitHub+Profile!"
+alt="Typing SVG"
+/>
+
+</div>
 
 ### Systems Analysis and Development Student
 
