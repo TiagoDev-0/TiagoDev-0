@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github.gif" alt="GitHub Animation" height="180px">
+<img src="./assets/github.gif" alt="GitHub Animation" width="100%">
 
 # 👨‍💻 Tiago Silva
 
