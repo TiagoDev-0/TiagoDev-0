@@ -6,8 +6,8 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
-💻 **Backend & Desenvolvimento de Software**  
-☕ **Java • Spring Boot • APIs REST**  
+💻 **Backend & Desenvolvimento de Software**
+☕ **Java • Spring Boot • APIs REST**
 🔐 **Interessado em Segurança de Aplicações (AppSec)**
 
 </div>
@@ -31,13 +31,13 @@
 <div align="center">
 
 <img
-  height="170em"
-  src="https://github-stats-extended.vercel.app/api?username=TiagoSantos9&show_icons=true&include_all_commits=true&theme=transparent&card_width=400"
+height="170em"
+src="https://github-stats-extended.vercel.app/api?username=TiagoSantos9&show_icons=true&include_all_commits=true&theme=transparent&card_width=400"
 />
 
 <img
-  height="170em"
-  src="https://github-stats-extended.vercel.app/api/top-langs?username=TiagoSantos9&layout=compact&langs_count=7&theme=transparent&card_width=400"
+height="170em"
+src="https://github-stats-extended.vercel.app/api/top-langs?username=TiagoSantos9&layout=compact&langs_count=7&theme=transparent&card_width=400"
 />
 
 </div>
@@ -49,7 +49,8 @@
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=TiagoSantos9&theme=transparent&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=C084FC&dates=FFFFFF"
+src="https://streak-stats.demolab.com?user=TiagoSantos9&theme=transparent&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=C084FC&dates=FFFFFF"
+alt="Sequência de contribuições do GitHub"
 />
 
 </div>
@@ -61,7 +62,8 @@
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoSantos9&bg_color=0D1117&color=C084FC&line=A855F7&point=E879F9&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoSantos9&bg_color=0D1117&color=C084FC&line=A855F7&point=E879F9&area=true&hide_border=true"
+alt="Gráfico de atividade do GitHub"
 />
 
 </div>
@@ -105,12 +107,12 @@
 
 <div align="center">
 
-☕ **Java e Programação Orientada a Objetos**  
-🌱 **Spring Boot**  
-🔗 **Desenvolvimento e construção de APIs REST**  
-🗄️ **SQL e Bancos de Dados Relacionais**  
-🏗️ **Arquitetura e Desenvolvimento Backend**  
-🌐 **Redes e Segurança da Informação**  
+☕ **Java e Programação Orientada a Objetos**
+🌱 **Spring Boot**
+🔗 **Desenvolvimento e construção de APIs REST**
+🗄️ **SQL e Bancos de Dados Relacionais**
+🏗️ **Arquitetura e Desenvolvimento Backend**
+🌐 **Redes e Segurança da Informação**
 🔐 **Segurança de Aplicações — AppSec**
 
 </div>
@@ -135,20 +137,20 @@ A longo prazo, pretendo evoluir profissionalmente para áreas relacionadas a:
 
 <picture>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake-dark.svg"
-  />
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake-dark.svg"
+/>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake.svg"
-  />
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake.svg"
+/>
 
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake.svg"
-  />
+<img
+ alt="Animação das contribuições do GitHub"
+ src="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake-dark.svg"
+/>
 
 </picture>
 
@@ -183,7 +185,8 @@ A longo prazo, pretendo evoluir profissionalmente para áreas relacionadas a:
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoSantos9&bg_color=0D1117&color=C084FC&line=A855F7&point=E879F9&area=true&hide_border=true"
-  alt="Gráfico de atividade do GitHub"
+src="https://komarev.com/ghpvc/?username=TiagoSantos9&label=Visualizações%20do%20perfil&color=8B5CF6&style=for-the-badge"
+alt="Visualizações do perfil"
 />
+
 </div>
