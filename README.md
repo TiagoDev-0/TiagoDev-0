@@ -29,43 +29,18 @@
 # 📊 GitHub Analytics
 <div align="center">
 
-<!-- LINHA SUPERIOR: 3 GRÁFICOS -->
+|                                                          Estatísticas                                                         |                                                                 Linguagens                                                                 |                                                                 Horários de Atividade                                                                |
+| :---------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiagoSantos9&theme=jolly" height="180px"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoSantos9&theme=jolly" height="180px"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TiagoSantos9&theme=jolly&utcOffset=-3" height="180px"/> |
 
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiagoSantos9&theme=jolly"
-alt="Estatísticas Gerais"
-height="180px"
-/>
+<br/>
 
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoSantos9&theme=jolly"
-alt="Linguagens Mais Usadas"
-height="180px"
-/>
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TiagoSantos9&theme=jolly&utcOffset=-3"
-alt="Horários de Maior Atividade"
-height="180px"
-/>
-
-<br/><br/>
-
-<!-- LINHA INFERIOR: DETALHES + STREAK -->
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoSantos9&theme=jolly"
-alt="Detalhes das Contribuições"
-height="160px"
-/>
-
-<img 
-src="https://streak-stats.demolab.com?user=TiagoSantos9&theme=jolly&hide_border=true"
-alt="Sequência de Contribuições"
-height="160px"
-/>
+|                                                        Detalhes das Contribuições                                                       |                                          Sequência de Contribuições                                         |
+| :-------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoSantos9&theme=jolly" height="160px"/> | <img src="https://streak-stats.demolab.com?user=TiagoSantos9&theme=jolly&hide_border=true" height="160px"/> |
 
 </div>
+
 ---
 
 # 🛠️ Tecnologias
