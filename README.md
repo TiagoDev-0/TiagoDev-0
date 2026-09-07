@@ -28,57 +28,51 @@
 
 ---
 
-# 📊 GitHub Analytics
+<!-- 📊 GitHub Analytics -->
+<div align="center">
 
-<!-- GRID SUPERIOR: Estatísticas Gerais e Principais Linguagens -->
+  <!-- GRID SUPERIOR: Estatísticas Gerais e Linguagens -->
+  <p>
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiagoSantos9&theme=jolly"
+      alt="Estatísticas Gerais"
+      height="195px"
+    />
 
-<p align="center">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoSantos9&theme=jolly"
+      alt="Linguagens Mais Usadas"
+      height="195px"
+    />
+  </p>
 
-<img 
- src="https://github-stats-extended.vercel.app/api?username=TiagoSantos9&show_icons=true&include_all_commits=true&theme=transparent&card_width=400"
- alt="Estatísticas Gerais"
- height="195px"
-/>
+  <!-- GRÁFICO INTERMEDIÁRIO: Commits Recentes -->
+  <p>
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TiagoSantos9&theme=jolly&utcOffset=-3"
+      alt="Gráfico de Commits Recentes"
+      height="195px"
+    />
+  </p>
 
-<img 
- src="https://github-stats-extended.vercel.app/api/top-langs?username=TiagoSantos9&layout=compact&langs_count=7&theme=transparent&card_width=400"
- alt="Linguagens Mais Usadas"
- height="195px"
-/>
+  <!-- GRID INFERIOR: Detalhes e Sequência -->
+  <p>
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoSantos9&theme=jolly"
+      alt="Informações Adicionais do Perfil"
+      height="150px"
+    />
+  </p>
 
-</p>
+  <p>
+    <img 
+      src="https://streak-stats.demolab.com?user=TiagoSantos9&theme=jolly&hide_border=true"
+      alt="Sequência de Contribuições"
+      height="150px"
+    />
+  </p>
 
-<!-- GRID INTERMEDIÁRIO: Gráfico de Atividade -->
-
-<p align="center">
-
-<img 
- src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoSantos9&bg_color=0D1117&color=C084FC&line=A855F7&point=E879F9&area=true&hide_border=true"
- alt="Gráfico de Commits Recentes"
-/>
-
-</p>
-
-<!-- GRID INFERIOR: Estatísticas e Sequência de Contribuições -->
-
-<p align="center">
-
-<img 
- src="https://github-readme-stats.vercel.app/api?username=TiagoSantos9&show_icons=true&theme=transparent&hide_border=true"
- alt="Informações Adicionais do Perfil"
- height="150px"
-/>
-
-<img 
- src="https://streak-stats.demolab.com?user=TiagoSantos9&theme=transparent&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=C084FC&dates=FFFFFF"
- alt="Sequência de Contribuições"
- height="150px"
-/>
-
-</p>
-
----
-
+</div>
 
 ---
 
