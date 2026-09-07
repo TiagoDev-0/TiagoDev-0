@@ -6,83 +6,66 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
-💻 **Backend & Desenvolvimento de Software**
-☕ **Java • Spring Boot • APIs REST**
-🔐 **Interessado em Segurança de Aplicações (AppSec)**
+💻 **Backend & Desenvolvimento de Software** • ☕ **Java & Spring Boot** • 🔐 **AppSec**
 
 </div>
 
 ---
 
-<div align="center">
+## 👋 Sobre mim
 
-## 👋 Bem-vindo ao meu perfil!
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, direcionando meus estudos para o desenvolvimento **Backend com Java e Spring Boot**.
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente direcionando meus estudos para o desenvolvimento **Backend com Java e Spring Boot**.
-
-🚀 Busco desenvolver soluções escaláveis, aprender continuamente e evoluir meus conhecimentos em **desenvolvimento de software, arquitetura de sistemas e segurança de aplicações**.
-
-</div>
+🚀 Busco evoluir continuamente em **desenvolvimento de software, APIs REST, bancos de dados, arquitetura de sistemas e segurança de aplicações**.
 
 ---
 
----
-
-<!-- 📊 GitHub Analytics -->
-<div align="center">
-
-  <!-- GRID SUPERIOR: Estatísticas Gerais e Linguagens -->
-  <p>
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiagoSantos9&theme=jolly"
-      alt="Estatísticas Gerais"
-      height="195px"
-    />
-
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoSantos9&theme=jolly"
-      alt="Linguagens Mais Usadas"
-      height="195px"
-    />
-  </p>
-
-  <!-- GRÁFICO INTERMEDIÁRIO: Commits Recentes -->
-  <p>
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TiagoSantos9&theme=jolly&utcOffset=-3"
-      alt="Gráfico de Commits Recentes"
-      height="195px"
-    />
-  </p>
-
-  <!-- GRID INFERIOR: Detalhes e Sequência -->
-  <p>
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoSantos9&theme=jolly"
-      alt="Informações Adicionais do Perfil"
-      height="150px"
-    />
-  </p>
-
-  <p>
-    <img 
-      src="https://streak-stats.demolab.com?user=TiagoSantos9&theme=jolly&hide_border=true"
-      alt="Sequência de Contribuições"
-      height="150px"
-    />
-  </p>
-
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=TiagoSantos9&theme=transparent&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=C084FC&dates=FFFFFF"
-alt="Sequência de contribuições do GitHub"
+<!-- Estatísticas Gerais + Linguagens -->
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiagoSantos9&theme=jolly"
+alt="Estatísticas Gerais"
+height="195px"
+/>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoSantos9&theme=jolly"
+alt="Linguagens Mais Usadas"
+height="195px"
+/>
+
+<br/>
+
+<!-- Horários mais produtivos -->
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TiagoSantos9&theme=jolly&utcOffset=-3"
+alt="Horários de maior atividade"
+height="195px"
+/>
+
+<br/>
+
+<!-- Detalhes do perfil -->
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoSantos9&theme=jolly"
+alt="Detalhes das contribuições"
+width="800px"
+/>
+
+<br/>
+
+<!-- Streak -->
+
+<img 
+src="https://streak-stats.demolab.com?user=TiagoSantos9&theme=jolly&hide_border=true"
+alt="Sequência de contribuições"
+height="170px"
 />
 
 </div>
@@ -113,10 +96,14 @@ alt="Gráfico de atividade do GitHub"
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
+<br/><br/>
+
 ### 🗄️ Banco de Dados
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<br/><br/>
 
 ### 🎨 Frontend / Mobile
 
@@ -125,6 +112,8 @@ alt="Gráfico de atividade do GitHub"
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<br/><br/>
 
 ### 🛠️ Ferramentas
 
@@ -141,7 +130,7 @@ alt="Gráfico de atividade do GitHub"
 
 ☕ **Java e Programação Orientada a Objetos**
 🌱 **Spring Boot**
-🔗 **Desenvolvimento e construção de APIs REST**
+🔗 **APIs REST**
 🗄️ **SQL e Bancos de Dados Relacionais**
 🏗️ **Arquitetura e Desenvolvimento Backend**
 🌐 **Redes e Segurança da Informação**
@@ -153,11 +142,11 @@ alt="Gráfico de atividade do GitHub"
 
 # 🎯 Objetivo Profissional
 
-Atualmente estou construindo minha carreira com foco em **Desenvolvimento Backend**, aprofundando meus conhecimentos principalmente em:
+Atualmente estou construindo minha carreira com foco em **Desenvolvimento Backend**, aprofundando meus conhecimentos em:
 
 > **Java • Spring Boot • APIs REST • Bancos de Dados • Arquitetura de Software**
 
-A longo prazo, pretendo evoluir profissionalmente para áreas relacionadas a:
+A longo prazo, pretendo evoluir para áreas relacionadas a:
 
 > **Engenharia de Software • Arquitetura de Sistemas • Segurança de Aplicações (AppSec)**
 
@@ -170,18 +159,18 @@ A longo prazo, pretendo evoluir profissionalmente para áreas relacionadas a:
 <picture>
 
 <source
- media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake-dark.svg"
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake-dark.svg"
 />
 
 <source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake.svg"
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake.svg"
 />
 
 <img
- alt="Animação das contribuições do GitHub"
- src="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake-dark.svg"
+alt="Animação das contribuições do GitHub"
+src="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake-dark.svg"
 />
 
 </picture>
@@ -210,11 +199,7 @@ A longo prazo, pretendo evoluir profissionalmente para áreas relacionadas a:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 <img
 src="https://komarev.com/ghpvc/?username=TiagoSantos9&label=Visualizações%20do%20perfil&color=8B5CF6&style=for-the-badge"
@@ -222,12 +207,3 @@ alt="Visualizações do perfil"
 />
 
 </div>
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=TiagoSantos9" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoSantos9&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
-
