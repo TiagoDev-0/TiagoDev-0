@@ -182,6 +182,6 @@ A longo prazo, pretendo evoluir profissionalmente para áreas relacionadas a:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=TiagoSantos9&label=Visualizações%20do%20perfil&color=8B5CF6&style=for-the-badge"/>
+![Visualização de perfil](https://komarev.com/ghpvc/?username=TiagoSantos9)
 
 </div>
