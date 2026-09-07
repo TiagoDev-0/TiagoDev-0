@@ -110,7 +110,7 @@ A longo prazo, pretendo evoluir profissionalmente para áreas relacionadas a:
   />
 
   <source
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake.svg"
   />
 
