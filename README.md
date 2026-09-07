@@ -17,7 +17,9 @@
 
 ### Banco de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)  ![Animação do GitHub](./github.gif)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)  <p align="center">
+  <img src="./assets/github.gif" alt="Animação do GitHub" width="500">
+</p>
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
 ### Frontend / Mobile
