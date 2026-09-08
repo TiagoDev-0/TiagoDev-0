@@ -39,11 +39,11 @@ alt="Typing SVG"
 
 |                                                                                                                               |                                                                                                                                            |                                                                                                                                                      |
 | :---------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiagoSantos9&theme=jolly" height="170px"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoSantos9&theme=jolly" height="170px"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TiagoSantos9&theme=jolly&utcOffset=-3" height="170px"/> |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiagoDev-0&theme=jolly" height="170px"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiagoDev-0&theme=jolly" height="170px"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TiagoDev-0&theme=jolly&utcOffset=-3" height="170px"/> |
 
 |                                                                                                                                         |                                                                                                             |
 | :-------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoSantos9&theme=jolly" height="150px"/> | <img src="https://streak-stats.demolab.com?user=TiagoSantos9&theme=jolly&hide_border=true" height="150px"/> |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoDev-0&theme=jolly" height="150px"/> | <img src="https://streak-stats.demolab.com?user=TiagoDev-0&theme=jolly&hide_border=true" height="150px"/> |
 
 </div>
 
@@ -79,17 +79,17 @@ alt="Typing SVG"
 
 <source
 media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake-dark.svg"
+srcset="https://raw.githubusercontent.com/TiagoDev-0/TiagoDev-0/output/github-contribution-grid-snake-dark.svg"
 />
 
 <source
 media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake.svg"
+srcset="https://raw.githubusercontent.com/TiagoDev-0/TiagoDev-0/output/github-contribution-grid-snake.svg"
 />
 
 <img
 alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-contribution-grid-snake-dark.svg"
+src="https://raw.githubusercontent.com/TiagoDev-0/TiagoDev-0/output/github-contribution-grid-snake-dark.svg"
 />
 
 </picture>
@@ -121,7 +121,7 @@ src="https://raw.githubusercontent.com/TiagoSantos9/TiagoSantos9/output/github-c
 <div align="center">
 
 <img
-src="https://komarev.com/ghpvc/?username=TiagoSantos9&label=Profile%20Views&color=8B5CF6&style=for-the-badge"
+src="https://komarev.com/ghpvc/?username=TiagoDev-0&label=Profile%20Views&color=8B5CF6&style=for-the-badge"
 alt="Profile Views"
 />
 
